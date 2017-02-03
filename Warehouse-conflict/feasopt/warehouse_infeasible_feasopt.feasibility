@@ -1,0 +1,10 @@
+<CPLEXFeasopt>
+  <rhs>
+    <relax index="60" preference="1.0"/> <!-- ctMaxUseOfWarehouse("Bonn") -->
+    <relax index="61" preference="2.0"/> <!-- ctMaxUseOfWarehouse("Bordeaux") -->
+    <relax index="62" preference="3.0"/> <!-- ctMaxUseOfWarehouse("London") -->
+    <relax index="63" preference="4.0"/> <!-- ctMaxUseOfWarehouse("Paris") -->
+    <relax index="64" preference="5.0"/> <!-- ctMaxUseOfWarehouse("Rome") -->
+  </rhs>
+</CPLEXFeasopt>
+

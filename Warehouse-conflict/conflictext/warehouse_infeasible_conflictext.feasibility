@@ -1,0 +1,22 @@
+<CPLEXRefineconflictext>
+  <group preference="1.0">
+    <con index="0" type="lin"/>
+    <con index="1" type="lin"/>
+    <con index="2" type="lin"/>
+    <con index="3" type="lin"/>
+    <con index="4" type="lin"/>
+    <con index="5" type="lin"/>
+    <con index="6" type="lin"/>
+    <con index="7" type="lin"/>
+    <con index="8" type="lin"/>
+    <con index="9" type="lin"/>
+  </group>
+  <group preference="1.0">
+    <con index="60" type="lin"/>
+    <con index="61" type="lin"/>
+    <con index="62" type="lin"/>
+    <con index="63" type="lin"/>
+    <con index="64" type="lin"/>
+  </group>
+</CPLEXRefineconflictext>
+

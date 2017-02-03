@@ -1,0 +1,10 @@
+<CPLEXFeasoptext>
+  <group preference="1.0">
+    <con index="60" type="lin"/> <!-- ctMaxUseOfWarehouse("Bonn") -->
+    <con index="61" type="lin"/> <!-- ctMaxUseOfWarehouse("Bordeaux") -->
+    <con index="62" type="lin"/> <!-- ctMaxUseOfWarehouse("London") -->
+    <con index="63" type="lin"/> <!-- ctMaxUseOfWarehouse("Paris") -->
+    <con index="64" type="lin"/> <!-- ctMaxUseOfWarehouse("Rome") -->
+  </group>
+</CPLEXFeasoptext>
+

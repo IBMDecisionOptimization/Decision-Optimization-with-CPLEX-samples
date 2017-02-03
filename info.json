@@ -3,7 +3,9 @@
 	"name":  "Decision Optimisation with CPLEX samples" ,
 	"model": [ "CPLEX" ],
 	"development": [ "" ],
-	"category": [ "MODELING" ],
+	"category": [{
+		"MODELING": ["ADVANCED MODELING"]
+	}],
 	"industry": [ "Operational research" ],
 	"abstract": "Optimization models, with different file types, for solution with CPLEX using DOcplexcloud."
 }
